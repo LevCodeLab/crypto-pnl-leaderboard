@@ -1,0 +1,38 @@
+{
+  "name": "crypto-pnl-leaderboard",
+  "version": "1.0.0",
+  "description": "TypeScript and SQLite EVM wallet swap indexer, realized/unrealized PnL and copy-tradeability scorer, and static JSON leaderboard UI",
+  "type": "module",
+  "main": "server/index.ts",
+  "scripts": {
+    "dev": "tsx watch server/index.ts",
+    "start": "tsx server/index.ts",
+    "snapshot": "tsx server/exportSnapshot.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "keywords": [
+    "evm",
+    "wallet-analytics",
+    "pnl-leaderboard",
+    "sqlite",
+    "typescript",
+    "dex-indexer"
+  ],
+  "author": "LevCodeLab",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.9",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
