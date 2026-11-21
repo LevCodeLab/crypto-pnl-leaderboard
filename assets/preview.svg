@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" fill="none">
+  <rect width="900" height="450" rx="16" fill="#0B0B0E"/>
+  <rect x="20" y="20" width="860" height="410" rx="12" fill="#141418" stroke="#26262E" stroke-width="1.5"/>
+
+  <!-- Top Bar -->
+  <text x="48" y="58" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">crypto-pnl-leaderboard</text>
+  <rect x="292" y="40" width="146" height="26" rx="13" fill="#141418" stroke="#26262E"/>
+  <text x="309" y="57" fill="#E4E4E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">EVM SQLite Indexer</text>
+
+  <rect x="706" y="38" width="146" height="30" rx="8" fill="#141418" stroke="#26262E"/>
+  <text x="726" y="57" fill="#E4E4E7" font-family="system-ui, -apple-system, sans-serif" font-size="11.5">How Scoring Works</text>
+
+  <line x1="20" y1="82" x2="880" y2="82" stroke="#26262E"/>
+
+  <!-- Top Wallet Cards -->
+  <rect x="48" y="102" width="394" height="106" rx="10" fill="#0B0B0E" stroke="#26262E"/>
+  <text x="68" y="132" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">+$48.3K</text>
+  <text x="68" y="152" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">steady_accumulator.eth (0x71c0...49a2)</text>
+  <rect x="352" y="114" width="72" height="24" rx="12" fill="#141418" stroke="#26262E"/>
+  <text x="366" y="130" fill="#E4E4E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">CPY 88</text>
+  <rect x="68" y="170" width="354" height="4" rx="2" fill="#141418"/>
+  <rect x="68" y="170" width="262" height="4" rx="2" fill="#FFFFFF"/>
+  <text x="68" y="192" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">Win Rate 74%   |   TRK 91   |   Conviction Holder</text>
+
+  <rect x="458" y="102" width="394" height="106" rx="10" fill="#0B0B0E" stroke="#26262E"/>
+  <text x="478" y="132" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">+$29.4K</text>
+  <text x="478" y="152" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">ladder_desk.eth (0x3f8b...11e4)</text>
+  <rect x="762" y="114" width="72" height="24" rx="12" fill="#141418" stroke="#26262E"/>
+  <text x="776" y="130" fill="#E4E4E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">CPY 81</text>
+  <rect x="478" y="170" width="354" height="4" rx="2" fill="#141418"/>
+  <rect x="478" y="170" width="234" height="4" rx="2" fill="#FFFFFF"/>
+  <text x="478" y="192" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">Win Rate 66%   |   TRK 83   |   Ladder Seller</text>
+
+  <!-- Filter Buttons -->
+  <rect x="48" y="224" width="108" height="32" rx="8" fill="#FFFFFF"/>
+  <text x="67" y="244" fill="#000000" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600">Leaderboard</text>
+
+  <rect x="164" y="224" width="98" height="32" rx="8" fill="#141418" stroke="#26262E"/>
+  <text x="182" y="244" fill="#E4E4E7" font-family="system-ui, -apple-system, sans-serif" font-size="12">Live Swaps</text>
+
+  <rect x="270" y="224" width="122" height="32" rx="8" fill="#141418" stroke="#26262E"/>
+  <text x="288" y="244" fill="#E4E4E7" font-family="system-ui, -apple-system, sans-serif" font-size="12">Flagged Wallets</text>
+
+  <!-- Leaderboard Rows -->
+  <rect x="48" y="270" width="804" height="136" rx="10" fill="#0B0B0E" stroke="#26262E"/>
+  <text x="68" y="296" fill="#71717A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5">#   WALLET                          REALIZED     UNREALIZED    TRK     CPY</text>
+  <line x1="48" y1="308" x2="852" y2="308" stroke="#26262E"/>
+
+  <text x="68" y="334" fill="#FFFFFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">1   steady_accumulator.eth          +$48.3K      +$6.4K        91      88</text>
+  <text x="68" y="364" fill="#E4E4E7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">2   ladder_desk.eth                 +$29.4K      +$1.9K        83      81</text>
+  <text x="68" y="392" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">3   0x94d2...88c0 (Hidden Insider)  +$19.8K      +$0.0K        28      34</text>
+</svg>
