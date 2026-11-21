@@ -1,0 +1,680 @@
+{
+  "leaderboard": [
+    {
+      "address": "0x71c0a94f000000000000000000000000000049a2",
+      "name": "steady_accumulator.eth",
+      "tags": [
+        {
+          "emoji": "💪",
+          "name": "Conviction Holder"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "realized_profit": 48250,
+      "unrealized_profit": 6400,
+      "roi": 0.68,
+      "win_rate": 0.74,
+      "trades": 210,
+      "token_num": 64,
+      "track_score": 86,
+      "copy_score": 93,
+      "avg_buy_usd": 2500,
+      "avg_hold_s": 98000,
+      "dump_rate": 0,
+      "avg_real_hold_s": 118200,
+      "wallet_age_days": 420.0000059027777,
+      "follower_count": 140,
+      "ghost_sell_ratio": 0,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.8586956521739129,
+      "score_details": {
+        "track": {
+          "tail": 0.96875,
+          "upside": 0.8125,
+          "roi": 1,
+          "win": 1,
+          "size": 0.14666666666666667,
+          "holdQuality": 1
+        },
+        "copy": {
+          "entryGap": 0.9141304347826087,
+          "dumpSafety": 1,
+          "copyable": 1,
+          "profitPerTrade": 1,
+          "hold": 0.6840277777777778,
+          "insiderSafety": 1,
+          "volumeHold": 0.6840277777777778
+        },
+        "smart": {
+          "ghost_sell_ratio": 0,
+          "uncopyable_rate": 0,
+          "avg_price_impact": 1.8586956521739129
+        },
+        "isDev": false
+      },
+      "discovered_from": "ARB",
+      "first_seen": 1795287472511,
+      "last_updated": 1795287472511,
+      "scan_count": 10,
+      "volume_weighted_hold_s": 118200,
+      "median_entry_mcap": 920000,
+      "sell_pattern": "{\"sell_tx_per_token\":1,\"dist\":{\"loss\":0,\"x1_15\":0,\"x15_2\":1,\"x2_3\":0,\"x3_plus\":0}}"
+    },
+    {
+      "address": "0x3f8bc120000000000000000000000000000011e4",
+      "name": "ladder_desk.eth",
+      "tags": [
+        {
+          "emoji": "📊",
+          "name": "Ladder Seller"
+        },
+        {
+          "emoji": "🐋",
+          "name": "Whale"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "realized_profit": 29400,
+      "unrealized_profit": 1920,
+      "roi": 0.49,
+      "win_rate": 0.66,
+      "trades": 229,
+      "token_num": 48,
+      "track_score": 83,
+      "copy_score": 85,
+      "avg_buy_usd": 6190.476190476191,
+      "avg_hold_s": 18400,
+      "dump_rate": 0,
+      "avg_real_hold_s": 18800,
+      "wallet_age_days": 210.0000059143509,
+      "follower_count": 62,
+      "ghost_sell_ratio": 0,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.5,
+      "score_details": {
+        "track": {
+          "tail": 0.9375,
+          "upside": 0.75,
+          "roi": 1,
+          "win": 1,
+          "size": 0.09333333333333334,
+          "holdQuality": 1
+        },
+        "copy": {
+          "entryGap": 0.95,
+          "dumpSafety": 1,
+          "copyable": 1,
+          "profitPerTrade": 1,
+          "hold": 0.1087962962962963,
+          "insiderSafety": 1,
+          "volumeHold": 0.1087962962962963
+        },
+        "smart": {
+          "ghost_sell_ratio": 0,
+          "uncopyable_rate": 0,
+          "avg_price_impact": 1.5
+        },
+        "isDev": false
+      },
+      "discovered_from": "ARB",
+      "first_seen": 1795287472511,
+      "last_updated": 1795287472511,
+      "scan_count": 10,
+      "volume_weighted_hold_s": 18800,
+      "median_entry_mcap": 7100000,
+      "sell_pattern": "{\"sell_tx_per_token\":2,\"dist\":{\"loss\":0,\"x1_15\":0,\"x15_2\":1,\"x2_3\":0,\"x3_plus\":0}}"
+    },
+    {
+      "address": "0x94d2e551000000000000000000000000000088c0",
+      "name": "",
+      "tags": [
+        {
+          "emoji": "🕵️",
+          "name": "Hidden Insider"
+        },
+        {
+          "emoji": "💀",
+          "name": "Pump & Dump"
+        },
+        {
+          "emoji": "🐍",
+          "name": "Stealth Dumper"
+        }
+      ],
+      "realized_profit": 19800,
+      "unrealized_profit": 0,
+      "roi": 0.41,
+      "win_rate": 0.58,
+      "trades": 64,
+      "token_num": 24,
+      "track_score": 15,
+      "copy_score": 35,
+      "avg_buy_usd": 2222.222222222222,
+      "avg_hold_s": 900,
+      "dump_rate": 1,
+      "avg_real_hold_s": 110,
+      "wallet_age_days": 4.000005914350902,
+      "follower_count": 90,
+      "ghost_sell_ratio": 0.5,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.4000000000000001,
+      "score_details": {
+        "track": {
+          "tail": 0.8333333333333334,
+          "upside": 0.5833333333333334,
+          "roi": 1,
+          "win": 1,
+          "size": 0.013333333333333334,
+          "holdQuality": 0.36666666666666664
+        },
+        "copy": {
+          "entryGap": 0.96,
+          "dumpSafety": 0,
+          "copyable": 1,
+          "profitPerTrade": 1,
+          "hold": 0.0006365740740740741,
+          "insiderSafety": 0.5,
+          "volumeHold": 0.0006365740740740741
+        },
+        "smart": {
+          "ghost_sell_ratio": 0.5,
+          "uncopyable_rate": 0,
+          "avg_price_impact": 1.4000000000000001
+        },
+        "isDev": false
+      },
+      "discovered_from": "ARB",
+      "first_seen": 1795287472512,
+      "last_updated": 1795287472512,
+      "scan_count": 10,
+      "volume_weighted_hold_s": 110,
+      "median_entry_mcap": 950000,
+      "sell_pattern": "{\"sell_tx_per_token\":1,\"dist\":{\"loss\":0,\"x1_15\":1,\"x15_2\":0,\"x2_3\":0,\"x3_plus\":0}}"
+    }
+  ],
+  "feed": [
+    {
+      "id": 7,
+      "wallet_address": "0x94d2e551000000000000000000000000000088c0",
+      "action": "sell",
+      "token_address": "0x1111111111111111111111111111111111111104",
+      "token_name": "Chainlink",
+      "token_symbol": "LINK",
+      "amount_usd": 9200,
+      "timestamp": 1795286872,
+      "token_logo": "",
+      "token_mcap": 1160000,
+      "tags": [
+        {
+          "emoji": "🕵️",
+          "name": "Hidden Insider"
+        },
+        {
+          "emoji": "💀",
+          "name": "Pump & Dump"
+        },
+        {
+          "emoji": "🐍",
+          "name": "Stealth Dumper"
+        }
+      ],
+      "wallet_name": "",
+      "track_score": 15,
+      "copy_score": 35,
+      "realized_profit": 19800,
+      "unrealized_profit": 0,
+      "roi": 0.41,
+      "win_rate": 0.58,
+      "ghost_sell_ratio": 0.5,
+      "dump_rate": 1,
+      "avg_real_hold_s": 110,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.4000000000000001,
+      "median_entry_mcap": 950000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 1,
+          "x15_2": 0,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        1160000
+      ]
+    },
+    {
+      "id": 6,
+      "wallet_address": "0x3f8bc120000000000000000000000000000011e4",
+      "action": "sell",
+      "token_address": "0x1111111111111111111111111111111111111103",
+      "token_name": "Aave Protocol",
+      "token_symbol": "AAVE",
+      "amount_usd": 5100,
+      "timestamp": 1795286272,
+      "token_logo": "",
+      "token_mcap": 11300000,
+      "tags": [
+        {
+          "emoji": "📊",
+          "name": "Ladder Seller"
+        },
+        {
+          "emoji": "🐋",
+          "name": "Whale"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "wallet_name": "ladder_desk.eth",
+      "track_score": 83,
+      "copy_score": 85,
+      "realized_profit": 29400,
+      "unrealized_profit": 1920,
+      "roi": 0.49,
+      "win_rate": 0.66,
+      "ghost_sell_ratio": 0,
+      "dump_rate": 0,
+      "avg_real_hold_s": 18800,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.5,
+      "median_entry_mcap": 7100000,
+      "sell_pattern": {
+        "sell_tx_per_token": 2,
+        "dist": {
+          "loss": 0,
+          "x1_15": 0,
+          "x15_2": 1,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        7100000,
+        10650000,
+        11300000
+      ]
+    },
+    {
+      "id": 2,
+      "wallet_address": "0x71c0a94f000000000000000000000000000049a2",
+      "action": "sell",
+      "token_address": "0x1111111111111111111111111111111111111101",
+      "token_name": "Arbitrum",
+      "token_symbol": "ARB",
+      "amount_usd": 7800,
+      "timestamp": 1795285672,
+      "token_logo": "",
+      "token_mcap": 1710000,
+      "tags": [
+        {
+          "emoji": "💪",
+          "name": "Conviction Holder"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "wallet_name": "steady_accumulator.eth",
+      "track_score": 86,
+      "copy_score": 93,
+      "realized_profit": 48250,
+      "unrealized_profit": 6400,
+      "roi": 0.68,
+      "win_rate": 0.74,
+      "ghost_sell_ratio": 0,
+      "dump_rate": 0,
+      "avg_real_hold_s": 118200,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.8586956521739129,
+      "median_entry_mcap": 920000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 0,
+          "x15_2": 1,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        920000,
+        950000,
+        1330000,
+        1710000
+      ]
+    },
+    {
+      "id": 9,
+      "wallet_address": "0x94d2e551000000000000000000000000000088c0",
+      "action": "sell",
+      "token_address": "0x1111111111111111111111111111111111111101",
+      "token_name": "Arbitrum",
+      "token_symbol": "ARB",
+      "amount_usd": 2100,
+      "timestamp": 1795283982,
+      "token_logo": "",
+      "token_mcap": 1330000,
+      "tags": [
+        {
+          "emoji": "🕵️",
+          "name": "Hidden Insider"
+        },
+        {
+          "emoji": "💀",
+          "name": "Pump & Dump"
+        },
+        {
+          "emoji": "🐍",
+          "name": "Stealth Dumper"
+        }
+      ],
+      "wallet_name": "",
+      "track_score": 15,
+      "copy_score": 35,
+      "realized_profit": 19800,
+      "unrealized_profit": 0,
+      "roi": 0.41,
+      "win_rate": 0.58,
+      "ghost_sell_ratio": 0.5,
+      "dump_rate": 1,
+      "avg_real_hold_s": 110,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.4000000000000001,
+      "median_entry_mcap": 950000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 1,
+          "x15_2": 0,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        920000,
+        950000,
+        1330000,
+        1710000
+      ]
+    },
+    {
+      "id": 8,
+      "wallet_address": "0x94d2e551000000000000000000000000000088c0",
+      "action": "buy",
+      "token_address": "0x1111111111111111111111111111111111111101",
+      "token_name": "Arbitrum",
+      "token_symbol": "ARB",
+      "amount_usd": 1500,
+      "timestamp": 1795283872,
+      "token_logo": "",
+      "token_mcap": 950000,
+      "tags": [
+        {
+          "emoji": "🕵️",
+          "name": "Hidden Insider"
+        },
+        {
+          "emoji": "💀",
+          "name": "Pump & Dump"
+        },
+        {
+          "emoji": "🐍",
+          "name": "Stealth Dumper"
+        }
+      ],
+      "wallet_name": "",
+      "track_score": 15,
+      "copy_score": 35,
+      "realized_profit": 19800,
+      "unrealized_profit": 0,
+      "roi": 0.41,
+      "win_rate": 0.58,
+      "ghost_sell_ratio": 0.5,
+      "dump_rate": 1,
+      "avg_real_hold_s": 110,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.4000000000000001,
+      "median_entry_mcap": 950000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 1,
+          "x15_2": 0,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        920000,
+        950000,
+        1330000,
+        1710000
+      ]
+    },
+    {
+      "id": 4,
+      "wallet_address": "0x3f8bc120000000000000000000000000000011e4",
+      "action": "buy",
+      "token_address": "0x1111111111111111111111111111111111111103",
+      "token_name": "Aave Protocol",
+      "token_symbol": "AAVE",
+      "amount_usd": 6400,
+      "timestamp": 1795259472,
+      "token_logo": "",
+      "token_mcap": 7100000,
+      "tags": [
+        {
+          "emoji": "📊",
+          "name": "Ladder Seller"
+        },
+        {
+          "emoji": "🐋",
+          "name": "Whale"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "wallet_name": "ladder_desk.eth",
+      "track_score": 83,
+      "copy_score": 85,
+      "realized_profit": 29400,
+      "unrealized_profit": 1920,
+      "roi": 0.49,
+      "win_rate": 0.66,
+      "ghost_sell_ratio": 0,
+      "dump_rate": 0,
+      "avg_real_hold_s": 18800,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.5,
+      "median_entry_mcap": 7100000,
+      "sell_pattern": {
+        "sell_tx_per_token": 2,
+        "dist": {
+          "loss": 0,
+          "x1_15": 0,
+          "x15_2": 1,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        7100000,
+        10650000,
+        11300000
+      ]
+    },
+    {
+      "id": 3,
+      "wallet_address": "0x71c0a94f000000000000000000000000000049a2",
+      "action": "buy",
+      "token_address": "0x1111111111111111111111111111111111111102",
+      "token_name": "Uniswap",
+      "token_symbol": "UNI",
+      "amount_usd": 5100,
+      "timestamp": 1795191472,
+      "token_logo": "",
+      "token_mcap": 710000,
+      "tags": [
+        {
+          "emoji": "💪",
+          "name": "Conviction Holder"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "wallet_name": "steady_accumulator.eth",
+      "track_score": 86,
+      "copy_score": 93,
+      "realized_profit": 48250,
+      "unrealized_profit": 6400,
+      "roi": 0.68,
+      "win_rate": 0.74,
+      "ghost_sell_ratio": 0,
+      "dump_rate": 0,
+      "avg_real_hold_s": 118200,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.8586956521739129,
+      "median_entry_mcap": 920000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 0,
+          "x15_2": 1,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        710000
+      ]
+    },
+    {
+      "id": 1,
+      "wallet_address": "0x71c0a94f000000000000000000000000000049a2",
+      "action": "buy",
+      "token_address": "0x1111111111111111111111111111111111111101",
+      "token_name": "Arbitrum",
+      "token_symbol": "ARB",
+      "amount_usd": 4200,
+      "timestamp": 1795167472,
+      "token_logo": "",
+      "token_mcap": 920000,
+      "tags": [
+        {
+          "emoji": "💪",
+          "name": "Conviction Holder"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "wallet_name": "steady_accumulator.eth",
+      "track_score": 86,
+      "copy_score": 93,
+      "realized_profit": 48250,
+      "unrealized_profit": 6400,
+      "roi": 0.68,
+      "win_rate": 0.74,
+      "ghost_sell_ratio": 0,
+      "dump_rate": 0,
+      "avg_real_hold_s": 118200,
+      "uncopyable_rate": 0,
+      "avg_price_impact": 1.8586956521739129,
+      "median_entry_mcap": 920000,
+      "sell_pattern": {
+        "sell_tx_per_token": 1,
+        "dist": {
+          "loss": 0,
+          "x1_15": 0,
+          "x15_2": 1,
+          "x2_3": 0,
+          "x3_plus": 0
+        }
+      },
+      "mcap_history": [
+        920000,
+        950000,
+        1330000,
+        1710000
+      ]
+    }
+  ],
+  "topWallets": [
+    {
+      "address": "0x71c0a94f000000000000000000000000000049a2",
+      "name": "steady_accumulator.eth",
+      "realized_profit": 48250,
+      "unrealized_profit": 6400,
+      "win_rate": 0.74,
+      "track_score": 86,
+      "copy_score": 93,
+      "tags": [
+        {
+          "emoji": "💪",
+          "name": "Conviction Holder"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "avg_real_hold_s": 118200,
+      "dump_rate": 0,
+      "token_num": 64,
+      "trades": 210
+    },
+    {
+      "address": "0x3f8bc120000000000000000000000000000011e4",
+      "name": "ladder_desk.eth",
+      "realized_profit": 29400,
+      "unrealized_profit": 1920,
+      "win_rate": 0.66,
+      "track_score": 83,
+      "copy_score": 85,
+      "tags": [
+        {
+          "emoji": "📊",
+          "name": "Ladder Seller"
+        },
+        {
+          "emoji": "🐋",
+          "name": "Whale"
+        },
+        {
+          "emoji": "⭐",
+          "name": "True Alpha"
+        }
+      ],
+      "avg_real_hold_s": 18800,
+      "dump_rate": 0,
+      "token_num": 48,
+      "trades": 229
+    }
+  ],
+  "stats": {
+    "wallets": 3,
+    "feed": 9
+  },
+  "ts": 1795287472516
+}

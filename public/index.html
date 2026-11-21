@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crypto PnL Leaderboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-left">
+      <span class="brand-title">crypto-pnl-leaderboard</span>
+      <span class="mono-pill">EVM SQLite Indexer</span>
+      <span class="mono-pill">Wallets: <strong id="stat-wallets">0</strong></span>
+    </div>
+    <button class="btn" id="open-guide-btn" onclick="openGuideModal()">How Scoring Works</button>
+  </header>
+
+  <section class="trader-rail" id="top-wallets-rail"></section>
+
+  <div class="filter-bar">
+    <div class="filter-tabs" id="view-tabs">
+      <button class="btn active" data-view="leaderboard" onclick="switchView('leaderboard', this)">Leaderboard</button>
+      <button class="btn" data-view="feed" onclick="switchView('feed', this)">Live Swaps</button>
+      <button class="btn" data-view="insiders" onclick="switchView('insiders', this)">Flagged Wallets</button>
+    </div>
+  </div>
+
+  <main class="content-scroll" id="content-area">
+    <div id="content-inner"></div>
+  </main>
+
+  <div class="modal-overlay" id="profile-modal">
+    <div class="modal-sheet" id="profile-sheet">
+      <div id="profile-content"></div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="guide-modal" onclick="onGuideOverlayClick(event)">
+    <div class="modal-sheet">
+      <h2 style="font-size: 18px; margin-bottom: 8px;">How Wallet Scoring Works</h2>
+      <p style="font-size: 13px; color: #a1a1aa; line-height: 1.5; margin-bottom: 16px;">
+        Track Score ranks historical win rate, upside brackets, and hold discipline. Copy Score filters out sub-30s snipers and airdrop dumpers so you see real traders instead of bots.
+      </p>
+      <button class="btn active" style="width: 100%;" onclick="closeGuideModal()">Got It</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
